@@ -1,5 +1,8 @@
 # Blinkit Sales Analysis Dashboard
 
+## Dashboard
+![Dashboard](https://github.com/user-attachments/assets/3ac439eb-9322-46d7-b911-56653da3dcb1)
+
 ## Project Overview
 
 This project presents a comprehensive Power BI dashboard for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs and visualizations.
@@ -29,4 +32,3 @@ The dashboard focuses on the following primary KPIs:
 3. Fruits, vegetables, and snack foods are the top-selling categories
 4. Medium-sized outlets in Tier 3 locations show the highest profitability
 5. Supermarkets generate higher sales volumes, while grocery stores have better item visibility
-
